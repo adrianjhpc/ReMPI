@@ -26,6 +26,7 @@
 
 #include <unordered_map>
 #include <list>
+#include <string>
 
 #include "mpi.h"
 
